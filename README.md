@@ -33,4 +33,8 @@ To run inference on desired video streams write this in terminal
 yolo detect predict model=model.pt source=./test_videos/gun3.mp4
 ```
 
+And to test on images
 
+```
+yolo detect predict model=model.pt source=./test_images/
+```
