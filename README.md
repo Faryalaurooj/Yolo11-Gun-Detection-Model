@@ -36,5 +36,5 @@ yolo detect predict model=model.pt source=./test_videos/gun3.mp4
 And to test on images
 
 ```
-yolo detect predict model=model.pt source=./test_images/
+yolo detect predict model=model.pt source=./test_images/images
 ```
